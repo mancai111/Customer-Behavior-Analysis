@@ -1,4 +1,4 @@
-# CompSci-178-Final-Proj
+# CompSci-178-Final-Proj Customer Analysis
 
 - Contributed by You 'Rio' Li, Ruiqi 'Ricky' Li, Hanze 'Anthony' Liu.
-- First in the cloud by December 5th.
+- Code.py contains the main file of code used for project report.
